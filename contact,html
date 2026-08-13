@@ -1,0 +1,25 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Contact Us | Vishvas Apps</title> <meta name="description" content="Contact Vishvas Apps for support, business and application-related inquiries."> <style> * { box-sizing: border-box; margin: 0; padding: 0; font-family: Arial, sans-serif; } body { background: #f7f9fc; color: #1f2937; line-height: 1.6; } header { background: #111827; color: white; padding: 18px 8%; display: flex; justify-content: space-between; align-items: center; } .logo { font-size: 24px; font-weight: bold; } nav a { color: white; text-decoration: none; margin-left: 20px; } main { max-width: 850px; margin: 70px auto; padding: 0 20px; } .box { background: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,.08); } h1 { margin-bottom: 20px; } .contact-item { margin: 20px 0; font-size: 18px; } a { color: #2563eb; text-decoration: none; } footer { background: #111827; color: white; text-align: center; padding: 30px; margin-top: 80px; } </style> </head> <body> <header> <div class="logo">Vishvas Apps</div> <nav> <a href="index.html">Home</a> <a href="privacy-policy.html">Privacy</a> <a href="terms.html">Terms</a> </nav> </header> <main> <div class="box"> <h1>Contact Us</h1> <p> If you have any questions, feedback, support requests, or business inquiries, please contact us. </p> <div class="contact-item"> <strong>Developer:</strong><br> Vishvas Dobariya </div> <div class="contact-item"> <strong>Email:</strong><br> <a href="mailto:vishvaspatel0001@gmail.com"> vishvaspatel0001@gmail.com </a> </div> <div class="contact-item"> <strong>Phone:</strong><br> <a href="tel:+919904316505"> +91 99043 16505 </a> </div> </div> </main> <footer> <p>© 2026 Vishvas Apps. All rights reserved.</p> <p>Founded by Vishvas Dobariya</p> </footer> </body> </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
