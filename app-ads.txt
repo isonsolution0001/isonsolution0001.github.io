@@ -1,5 +1,3 @@
-# Google AdMob
-google.com, pub-XXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
 
 # InMobi
 inmobi.com, 2ed89dedb6e84e599be3062281157eb7, DIRECT, 83e75a7ae333ca9d
