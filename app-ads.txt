@@ -1,1 +1,8 @@
-google.com, pub-4290673344618702, DIRECT, f08c47fec0942fa0
+# Google AdMob
+google.com, pub-XXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# InMobi
+inmobi.com, 2ed89dedb6e84e599be3062281157eb7, DIRECT, 83e75a7ae333ca9d
+
+# Meta Audience Network
+facebook.com, 117959673025547, DIRECT, c3e20eee3f780d68
